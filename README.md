@@ -135,6 +135,6 @@ An application combining a React frontend with a FastAPI backend to explore AI-p
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1736&height=120&section=footer" alt="Purple gradient footer"/>
 
-**Exploring AI &nbsp; · &nbsp; Building Intelligent Solutions &nbsp; · &nbsp; Learning Continuously**
+**· &nbsp; Exploring AI &nbsp; · &nbsp; Building Intelligent Solutions &nbsp; · &nbsp; Learning Continuously**
 
 </div>
