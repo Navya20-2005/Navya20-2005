@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✦ Naram Navya Sri Deepthi ✧
+# Naram Navya Sri Deepthi 
 
 ### Computer Science Engineering Student | Aspiring AI Developer
 
