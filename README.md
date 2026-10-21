@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1736,50:312E81,100:7C3AED&height=220&section=header&text=✦%20Naram%20Navya%20Sri%20Deepthi%20✧&fontSize=29&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20AI%20Developer&descAlignY=58&descSize=14" alt="Navy and purple gradient header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:312E81,70:0B1736,100:7C3AED&height=220&section=header&text=Naram%20Navya%20Sri%20Deepthi&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20AI%20Developer&descAlignY=58&descSize=15" alt="Naram Navya Sri Deepthi profile banner"/>
 
-### ✨ Artificial Intelligence · Machine Learning · Generative AI
+### Artificial Intelligence &nbsp; | &nbsp; Machine Learning &nbsp; | &nbsp; Generative AI
 
 <a href="https://github.com/Navya20-2005">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,12 +24,12 @@
 
 I am a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent applications. I enjoy exploring emerging technologies, solving problems, and turning ideas into practical solutions.
 
-- ✦ Interested in Artificial Intelligence and Machine Learning.
-- ✦ Exploring Generative AI and Computer Vision.
-- ✦ Building projects that address real-world challenges.
-- ✦ Continuously improving my technical skills and knowledge.
+- Interested in Artificial Intelligence and Machine Learning.
+- Exploring Generative AI and Computer Vision.
+- Building projects that address real-world challenges.
+- Continuously improving my technical skills and knowledge.
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 🌿 EcoLearn
 
@@ -51,30 +51,29 @@ An AI-based project designed to provide agricultural guidance and support farmin
 
 ### 🎮 Shape Tracing Game
 
-An interactive game designed to help users practice shape tracing and recognition.
+An interactive application designed to help users practice shape tracing and recognition.
 
 `HTML` `CSS` `JavaScript` `React`
 
-### 💎 GitIntel-AI
+### 💻 GitIntel-AI
 
 An application combining a React frontend with a FastAPI backend to explore AI-powered functionality.
 
 `React` `Python` `FastAPI`
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧠 AI & Machine Learning
+### AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square)
@@ -83,19 +82,19 @@ An application combining a React frontend with a FastAPI backend to explore AI-p
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
 
-### 🌐 Web Technologies
+### Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -104,11 +103,11 @@ An application combining a React frontend with a FastAPI backend to explore AI-p
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navya20-2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya20-2005&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya20-2005&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navya20-2005&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Statistics"/>
 </p>
 
 </td>
@@ -119,19 +118,23 @@ An application combining a React frontend with a FastAPI backend to explore AI-p
 
 <div align="center">
 
-### ✦ Small steps every day lead to big results. ✦
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1736&height=4" alt="Navy divider"/>
+
+### “Small steps every day lead to big results.”
+
+## Connect With Me
 
 <a href="https://github.com/Navya20-2005">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="https://www.linkedin.com/in/naram-navya-sri-deepthi-b3ab1a31b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1736&height=120&section=footer" alt="Purple gradient footer"/>
 
-**✦ Exploring AI &nbsp; · &nbsp; Building Intelligent Solutions &nbsp; · &nbsp; Learning Continuously ✦**
+**Exploring AI &nbsp; · &nbsp; Building Intelligent Solutions &nbsp; · &nbsp; Learning Continuously**
 
 </div>
